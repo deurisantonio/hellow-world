@@ -1,5 +1,4 @@
 # hellow-world
-programa de inicio
-Y  QUE PASA TIO
+programa de inicio..klk
 
 
